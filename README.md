@@ -31,12 +31,13 @@
 
 > ##### Linux, Unix:
 >
-> `./fastboot oem off-mode-charge 0`
+> `./fastboot oem off-mode-charge 0`\
 > `./fastboot reboot recovery`
 
 > ##### Windows:
 >
-> <code>fastboot oem off-mode-charge 0<br/>fastboot reboot recovery</code>
+> `fastboot oem off-mode-charge 0`\
+> `fastboot reboot recovery`
 
 Планшет будет перезагружен в recovery...
 
