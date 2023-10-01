@@ -31,7 +31,8 @@
 
 > ##### Linux, Unix:
 >
-> <code>./fastboot oem off-mode-charge 0<br/>./fastboot reboot recovery</code>
+> `./fastboot oem off-mode-charge 0`
+> `./fastboot reboot recovery`
 
 > ##### Windows:
 >
